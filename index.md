@@ -15,30 +15,30 @@ Welcome to the OWASP Sydney Chapter home page!
 The OWASP Sydney Chapter was active in 2019 and is being rebooted in 2020. We organise local events throughout the year.
 
 The chapter leaders are Ric Campo, Jack Gifford, and Sherry Liu.
-
+<br/>
 
 ## Our Goals
-***Equality***
+***Equality*** <br/>
 We aim to bring together women from research, academia, and industry to motivate and empower other women to pursue a career in cybersecurity. By raising awareness against discrimination within the workforce, we work towards increasing diversity and creating a workforce with gender equality.
 
-*Education*
+***Education*** <br/>
 We are committed to helping discover the next generation of cybersecurity talent. We aim to offer mentorship programs to educate those new to the cybersecurity field, and provide talks from industry professionals to showcase all cybersecurity has to offer to encourage students to pursue it as a career.
 
-*Community*
+***Community*** <br/>
 We want to help you connect with like-minded individuals. Whether you are new to cybersecurity or a seasoned veteran, our goal is to build a community where everyone can openly discuss and explore current issues in cybersecurity, employment opportunities and more. By providing networking opportunities, we want everyone to get involved in the community and establish relationships with new people.
 
-*Workshops*
+***Workshops*** <br/>
 No cybersecurity summit would be complete without CTF events! We aim to hold an annual end of year competition where participants compete for a shot at glory and a cash prize.
-
+<br/>
 
 ## Upcoming Events
 <!-- Insert details of upcoming events here-->
 We are on Meetup! For the list of latest events please join our community at <MeetUp Link>
-
+<br/>
 
 ## Interested In Speaking?
 We are always open to speakers who want to present a talk that aligns with our Chapter goals. If you are interested, please email your proposed topic, abstract, and brief speaker bio to [Ric Campo](mailto:ric.campo@owasp.org).
-
+<br/>
 
 ## OWASP Statement on Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security.
