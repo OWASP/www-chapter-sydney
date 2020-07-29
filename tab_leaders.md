@@ -9,7 +9,7 @@ tags: sydney
 
 ## Meet The Leaders
 
-<img style="float:left" src="assets/images/default-profile.jpg" width="300" />
+<img style="float:right" src="assets/images/default-profile.jpg" width="300" />
 
 *Name* <br/>
 Name Here
