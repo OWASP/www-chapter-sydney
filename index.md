@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Sydney
-tags: example-tag
+tags: sydney
 level: 0
 
 region: Asia/Pacific
