@@ -9,13 +9,13 @@ tags: sydney
 
 ## Meet The Leaders
 
-<img style="float:right" src="/assets/images/default-profile.jpg" width="200" />
+<img style="float:right" src="assets/images/default-profile.jpg" width="200" />
 
-*Name*
+*Name* <br/>
 Name Here
 
-*Role*
+*Role* <br/>
 Role Here
 
-*About*
+*About* <br/>
 About Here
