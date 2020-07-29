@@ -1,8 +1,8 @@
 ---
 title: Past Events
-layout:  null
+layout:  col-sidebar
 tab: true
-order: 1
+order: 2
 tags: example-tag
 ---
 
@@ -15,5 +15,5 @@ tags: example-tag
 
 **Speaker:**
 <blockquote>
-Speaker name and about. 
+Speaker name and about.
 </blockquote>
