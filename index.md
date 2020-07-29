@@ -11,6 +11,20 @@ auto-migrated: 1
 
 ---
 
+## Welcome
+Include some information here about your chapter
+
+
+## Our Goals
+Mission statements here.
+
+
+## Upcoming Events
+We are on Meetup! For the list of latest events please join our community at <MeetUp Link>
+
+
+## Interested In Speaking?
+Info on contact here.
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
@@ -21,7 +35,7 @@ Please change these items to indicate the actual information you wish to present
 ```
 - layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
 - title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
+- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo)
 - region: This is the region you are in according to our data
 ```
 
@@ -32,7 +46,7 @@ Replace the text above the commented area with your information in the format be
 Include some information here about your chapter
 
 ## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security.
 
 Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
 

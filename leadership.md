@@ -1,5 +1,5 @@
 ---
-title: Example
+title: Leaders
 layout:  null
 tab: true
 order: 1
