@@ -2,6 +2,6 @@
 * Chapter Region -->
 
 ### Social Links
-* [Meetup](#)
-* [Discord](#)
-* [Facebook](#)
+* [Meetup]()
+* [Discord]()
+* [Facebook]()
