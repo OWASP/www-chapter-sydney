@@ -15,7 +15,7 @@ Welcome to the OWASP Sydney Chapter home page!
 The OWASP Sydney Chapter was active in 2019 and is being rebooted in 2020. We organise local events throughout the year.
 
 The chapter leaders are Ric Campo, Jack Gifford, and Sherry Liu.
-<br/>
+
 
 ## Our Goals
 ***Equality*** <br/>
@@ -29,16 +29,16 @@ We want to help you connect with like-minded individuals. Whether you are new to
 
 ***Workshops*** <br/>
 No cybersecurity summit would be complete without CTF events! We aim to hold an annual end of year competition where participants compete for a shot at glory and a cash prize.
-<br/>
+
 
 ## Upcoming Events
 <!-- Insert details of upcoming events here-->
 We are on Meetup! For the list of latest events please join our community at <MeetUp Link>
-<br/>
+
 
 ## Interested In Speaking?
 We are always open to speakers who want to present a talk that aligns with our Chapter goals. If you are interested, please email your proposed topic, abstract, and brief speaker bio to [Ric Campo](mailto:ric.campo@owasp.org).
-<br/>
+
 
 ## OWASP Statement on Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security.

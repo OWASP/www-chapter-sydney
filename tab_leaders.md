@@ -7,7 +7,15 @@ order: 1
 tags: sydney
 ---
 
-## Example
+## Meet The Leaders
 
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
-This is a test example.
+<img style="float:right" src="/assets/images/default-profile.jpg" width="200" />
+
+*Name*
+Name Here
+
+*Role*
+Role Here
+
+*About*
+About Here
