@@ -1,5 +1,6 @@
 ---
-title: Leaders
+title: leaders
+displaytext: Leaders
 layout:  col-sidebar
 tab: true
 order: 1

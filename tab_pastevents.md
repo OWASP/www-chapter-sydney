@@ -1,12 +1,13 @@
 ---
-title: Past Events
+title: pastevents
+displaytext: Past Events
 layout:  col-sidebar
 tab: true
 order: 2
 tags: example-tag
 ---
 
-### Meeting Title Here ###
+### Meeting Title Here
 **Date:** <Date Here>
 
 <blockquote>
