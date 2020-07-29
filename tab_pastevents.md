@@ -30,8 +30,8 @@ Speaker name and about.
   The primary purpose of the OWASP ASVS project is to standardise web application security verification by providing a basis for testing web application security controls and providing developers with a list of requirements for secure development.
 </blockquote>
 
-**Speaker:**
+**Speakers:**
 <blockquote>
-Hemi Gur-Ary
+Hemi Gur-Ary <br/>
 A cybersecurity expert with an extensive application and cloud security experience gained as a security manager in the finance and startup industries in Israel. Hemi Gur-Ary specialises in security architecture, engineering and operations management.
 </blockquote>
