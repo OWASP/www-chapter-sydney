@@ -19,10 +19,10 @@ The chapter leaders are Ric Campo, Jack Gifford, and Sherry Liu.
 
 ## Our Goals
 ***Equality*** <br/>
-We aim to bring together women from research, academia, and industry to motivate and empower other women to pursue a career in cybersecurity. By raising awareness against discrimination within the workforce, we work towards increasing diversity and creating a workforce with gender equality.
+We aim to bring together people from research, academia, and industry to motivate and empower others to pursue a career in cybersecurity. By raising awareness against discrimination within the workforce, we work towards increasing diversity and creating a workforce with equality.
 
 ***Education*** <br/>
-We are committed to helping discover the next generation of cybersecurity talent. We aim to offer mentorship programs to educate those new to the cybersecurity field, and provide talks from industry professionals to showcase all cybersecurity has to offer to encourage students to pursue it as a career.
+We are committed to helping discover the next generation of cybersecurity talent. We aim to offer mentorship programs to educate those new to cybersecurity, and provide talks from industry professionals to showcase all cybersecurity has to offer.
 
 ***Community*** <br/>
 We want to help you connect with like-minded individuals. Whether you are new to cybersecurity or a seasoned veteran, our goal is to build a community where everyone can openly discuss and explore current issues in cybersecurity, employment opportunities and more. By providing networking opportunities, we want everyone to get involved in the community and establish relationships with new people.
@@ -33,7 +33,8 @@ No cybersecurity summit would be complete without CTF events! We aim to hold an 
 
 ## Upcoming Events
 <!-- Insert details of upcoming events here-->
-We are on Meetup! For the list of latest events please join our community at <MeetUp Link>
+Upcoming events will be listed here, stay tuned!
+Follow us on our socials to stay updated, we are on MeetUp, Facebook, and Discord.
 
 
 ## Interested In Speaking?
