@@ -6,6 +6,9 @@ tags: sydney
 level: 0
 
 region: Asia/Pacific
+meetup-group: OWASP-Sydney-Chapter
+country: Australia
+postal-code: 
 
 ---
 
