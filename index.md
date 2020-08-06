@@ -12,7 +12,7 @@ postal-code:
 
 ---
 
-<img src="assets/images/logo-syd.png" style="width:35%">
+<img src="assets/images/logo-syd.png" style="width:45%" class="center">
 
 ## Welcome
 Welcome to the OWASP Sydney Chapter home page!
