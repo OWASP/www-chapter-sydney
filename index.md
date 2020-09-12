@@ -5,7 +5,7 @@ title: OWASP Sydney
 tags: sydney
 level: 0
 
-region: Asia/Pacific
+region: Oceania
 meetup-group: OWASP-Sydney-Chapter
 country: Australia
 postal-code:
