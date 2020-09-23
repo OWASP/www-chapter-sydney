@@ -37,8 +37,7 @@ No cybersecurity summit would be complete without CTF events! We aim to hold an 
 
 
 ## Upcoming Events
-{% include chapter_events.html group=page.meetup-group %}
-
+{% include meetup.html group=page.meetup-group %}
 
 Follow us on our socials to stay updated, we are on MeetUp, Facebook, and Discord.
 
