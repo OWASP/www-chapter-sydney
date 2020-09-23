@@ -38,10 +38,10 @@ No cybersecurity summit would be complete without CTF events! We aim to hold an 
 
 ## Upcoming Events
 <section style='background-color:#f3f4f6;'>
-    <strong>Event: Sydney OWASP Night - How To Become A Security Specialist</strong><br/>
-    <strong>Date: Wednesday 21st October </strong><br/>
-    <strong>Time: 6PM </strong><br/>
-    <strong>Link: https://www.meetup.com/OWASP-Sydney-Chapter/events/273424954/ <a href=</a></strong></section><br/>
+    <strong>Event:</strong> Sydney OWASP Night - How To Become A Security Specialist<br/>
+    <strong>Date:</strong> Wednesday 21st October <br/>
+    <strong>Time:</strong> 6PM <br/>
+    <strong>Link:</strong> [](https://www.meetup.com/OWASP-Sydney-Chapter/events/273424954/)
 </section>
 <br/>
 Follow us on our socials to stay updated, we are on MeetUp, Facebook, and Discord.
