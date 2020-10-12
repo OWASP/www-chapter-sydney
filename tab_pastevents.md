@@ -23,6 +23,8 @@ Speaker name and about.
 ## Past Events
 <br/> <br/>
 
+Past event recordings will be uploaded to our YouTube channel: https://www.youtube.com/channel/UCKx3H-oNkly9cwKRpFziCag?view_as=subscriber
+
 ### OWASP ASVS V.4 for Startup Founders and Developers
 **Date:** 22nd May, 2019
 
