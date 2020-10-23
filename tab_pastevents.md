@@ -27,6 +27,22 @@ Past event recordings will be uploaded to our YouTube channel: <a href="https://
 
 <br/>
 
+### How To Become A Security Specialist 
+**Date:** 21st October, 2020
+
+<blockquote>
+  Special guest speakers Ricki Burke and Lukasz Gogolkiewicz discuss some of the challenges of getting into the security job market and overcoming them to land your first role in the field.
+</blockquote>
+
+**Speakers:**
+<blockquote>
+Ricki Burke <br/>
+Ricki is heavily involved in the infosec community and is one of Australia’s leading cyber security recruiters. He is the founder of CyberSec People, where him and his team support organisations in hiring skilled infosec professionals. <br/><br/>
+
+Lukasz Gogolkiewicz <br/>
+Lukasz is a highly proficient security professional who heads up Corporate Security at SEEK. He has worked with some of the world largest banks and financial organisations, has worked with federal, state and local governments, presented at and organised a number security conferences, and helps mentor the next generation of security professionals.
+</blockquote>
+
 ### OWASP ASVS V.4 for Startup Founders and Developers
 **Date:** 22nd May, 2019
 
