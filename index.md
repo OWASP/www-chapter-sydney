@@ -41,7 +41,7 @@ No cybersecurity summit would be complete without CTF events! We aim to hold an 
     <strong>Event:</strong> OWASP Jingle Hack For Beginners <br/>
     <strong>Date:</strong> 21st December 6PM - 4th January 6PM<br/>
 </section>
-    <!-- <strong>Link:</strong> <a href="https://www.meetup.com/OWASP-Sydney-Chapter/events/273424954/">https://www.meetup.com/OWASP-Sydney-Chapter/events/273424954/</a> -->
+    
 Follow us on our socials to stay updated, we are on MeetUp, Facebook, and Discord.
 
 
