@@ -39,9 +39,9 @@ No cybersecurity summit would be complete without CTF events! We aim to hold an 
 ## Upcoming Events
 <section style='background-color:#f3f4f6;'>
     <strong>Event:</strong> OWASP Jingle Hack For Beginners <br/>
-    <strong>Date:</strong> 21st December 6PM - 4th January 6PM<br/>
+    <strong>Date:</strong> 21st December 6PM 2020 - 4th January 6PM 2021<br/>
 </section>
-    
+
 Follow us on our socials to stay updated, we are on MeetUp, Facebook, and Discord.
 
 
