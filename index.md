@@ -43,46 +43,45 @@ No cybersecurity summit would be complete without CTF events! We aim to hold an 
     <strong>Link:</strong> <a href="https://www.meetup.com/OWASP-Sydney-Chapter/events/275056495/">https://www.meetup.com/OWASP-Sydney-Chapter/events/275056495/</a>
 </section><br/>
 
-
 <section style='background-color:#f3f4f6;'>
     <strong>Event:</strong> Lifecycle of A Bug - Online Presentation <br/>
     <strong>Proposed Date:</strong> 20th January 2021<br/>
-</section>
+</section><br/>
 
 <section style='background-color:#f3f4f6;'>
     <strong>Event:</strong> Informal Get Together - Hack Games <br/>
     <strong>Proposed Date:</strong> 17th February 2021<br/>
-</section>
+</section><br/>
 
 <section style='background-color:#f3f4f6;'>
     <strong>Event:</strong> Bridging The Cybersecurity Skill Gap - Online Presentation <br/>
     <strong>Proposed Date:</strong> 17th March 2021<br/>
-</section>
+</section><br/>
 
 <section style='background-color:#f3f4f6;'>
     <strong>Event:</strong> Informal Get Together - Hack Games <br/>
     <strong>Proposed Date:</strong> 21st April 2021<br/>
-</section>
+</section><br/>
 
 <section style='background-color:#f3f4f6;'>
     <strong>Event:</strong> Threat Assessment - Online Presentation <br/>
     <strong>Proposed Date:</strong> 19th May 2021<br/>
-</section>
+</section><br/>
 
 <section style='background-color:#f3f4f6;'>
     <strong>Event:</strong> Informal Get Together - Hack Games <br/>
     <strong>Proposed Date:</strong> 16th June 2021<br/>
-</section>
+</section><br/>
 
 <section style='background-color:#f3f4f6;'>
     <strong>Event:</strong> Pentesting Using The Browser Developer Tool - Online Presentation <br/>
     <strong>Proposed Date:</strong> 21st July 2021<br/>
-</section>
+</section><br/>
 
 <section style='background-color:#f3f4f6;'>
     <strong>Event:</strong> Informal Get Together - Hack Games <br/>
     <strong>Proposed Date:</strong> 18th August 2021<br/>
-</section>
+</section><br/>
 
 
 Follow us on our socials to stay updated, we are on MeetUp, LinkedIn, Facebook, and Discord.

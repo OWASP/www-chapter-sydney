@@ -27,7 +27,7 @@ Past event recordings will be uploaded to our YouTube channel: <a href="https://
 
 <br/>
 
-### How To Become A Security Specialist 
+### How To Become A Security Specialist
 **Date:** 21st October, 2020
 
 <blockquote>
@@ -42,6 +42,8 @@ Ricki is heavily involved in the infosec community and is one of Australia’s l
 Lukasz Gogolkiewicz <br/>
 Lukasz is a highly proficient security professional who heads up Corporate Security at SEEK. He has worked with some of the world largest banks and financial organisations, has worked with federal, state and local governments, presented at and organised a number security conferences, and helps mentor the next generation of security professionals.
 </blockquote>
+
+-------------
 
 ### OWASP ASVS V.4 for Startup Founders and Developers
 **Date:** 22nd May, 2019
