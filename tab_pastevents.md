@@ -27,6 +27,14 @@ Past event recordings will be uploaded to our YouTube channel: <a href="https://
 
 <br/>
 
+### Jingleton Hack for Beginners 2020
+**Date:** 21st December, 2020 - 4th January, 2021
+
+<blockquote>
+  Our annual Christmas web application security CTF for beginners. Check out the Jingleton leaderboard for the final scores!
+</blockquote>
+
+
 ### How To Become A Security Specialist
 **Date:** 21st October, 2020
 
