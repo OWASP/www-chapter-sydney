@@ -39,12 +39,7 @@ No cybersecurity summit would be complete without CTF events! We aim to hold an 
 ## Upcoming Events
 
 <section style='background-color:#f3f4f6;'>
-    <strong>Event:</strong> Lifecycle of A Bug - Online Presentation <br/>
-    <strong>Proposed Date:</strong> 20th January 2021<br/>
-</section><br/>
-
-<section style='background-color:#f3f4f6;'>
-    <strong>Event:</strong> Informal Get Together - Hack Games <br/>
+    <strong>Event:</strong> Informal Get Together - Fight Club <br/>
     <strong>Proposed Date:</strong> 17th February 2021<br/>
 </section><br/>
 
@@ -54,7 +49,7 @@ No cybersecurity summit would be complete without CTF events! We aim to hold an 
 </section><br/>
 
 <section style='background-color:#f3f4f6;'>
-    <strong>Event:</strong> Informal Get Together - Hack Games <br/>
+    <strong>Event:</strong> Informal Get Together - Fight Club <br/>
     <strong>Proposed Date:</strong> 21st April 2021<br/>
 </section><br/>
 
@@ -64,7 +59,7 @@ No cybersecurity summit would be complete without CTF events! We aim to hold an 
 </section><br/>
 
 <section style='background-color:#f3f4f6;'>
-    <strong>Event:</strong> Informal Get Together - Hack Games <br/>
+    <strong>Event:</strong> Informal Get Together - Fight Club <br/>
     <strong>Proposed Date:</strong> 16th June 2021<br/>
 </section><br/>
 
@@ -74,7 +69,7 @@ No cybersecurity summit would be complete without CTF events! We aim to hold an 
 </section><br/>
 
 <section style='background-color:#f3f4f6;'>
-    <strong>Event:</strong> Informal Get Together - Hack Games <br/>
+    <strong>Event:</strong> Informal Get Together - Fight Club <br/>
     <strong>Proposed Date:</strong> 18th August 2021<br/>
 </section><br/>
 
