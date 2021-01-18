@@ -11,4 +11,4 @@ tags: sydney
 
 [Web Security Testing Guide Checklist](https://github.com/OWASP/wstg/tree/master/checklist)
 
-![Hacking And Securing Docker Containers](/assets/docker-containers.pdf)
+<a href="/assets/docker-containers.pdf" download="docker-containers.pdf">Hacking And Securing Docker Containers</a>
