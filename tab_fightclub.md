@@ -14,6 +14,7 @@ See our running leaderboard below!
 <html>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.5/build/pure-min.css" integrity="sha384-LTIDeidl25h2dPxrB2Ekgc9c7sEC3CWGM6HeFmuDNUjX76Ert4Z4IY714dhZHPLd" crossorigin="anonymous">
+</html>
 
     <script type="text/javascript">
       // Client ID and API key from the Developer Console
@@ -88,5 +89,3 @@ See our running leaderboard below!
       onload="this.onload=function(){};handleClientLoad()"
       onreadystatechange="if (this.readyState === lete') this.onload()">
     </script>
-
-</html>
