@@ -1,6 +1,6 @@
 ---
 title: fightclub
-displaytext: Fight Club Leaderboard
+displaytext: Fight Club 
 layout:  col-sidebar
 tab: true
 order: 2
