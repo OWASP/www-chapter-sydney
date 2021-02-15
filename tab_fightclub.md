@@ -34,7 +34,7 @@ See our running leaderboard below!
       }
 
       function createTable(table, data, numRows, numCols) {
-        table.style.width = '100px';
+        table.style.width = '40%';
         table.setAttribute('class', 'pure-table pure-table-horizontal');
 
         var th = table.insertRow();
