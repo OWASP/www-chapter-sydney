@@ -35,7 +35,7 @@ See our running leaderboard below!
 
       function createTable(table, data, numRows, numCols) {
         table.style.width = '40%';
-        table.setAttribute('class', 'pure-table pure-table-horizontal');
+        table.setAttribute('class', 'pure-table pure-table-horizontal page-body');
 
         var th = table.insertRow();
         var header = data[0];
