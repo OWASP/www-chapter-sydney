@@ -61,7 +61,7 @@ See our running leaderboard below!
           }
         }
 
-        document.body.appendChild(table);
+        document.getElementById("sec-fightclub").appendChild(table);
       }
 
       function listleaderboard() {
@@ -79,7 +79,7 @@ See our running leaderboard below!
 
         }, function(response) {
           var err = document.createTextNode('Error: Please screnshot this message and contact the OWASP Chapter Leaders to report this');
-          document.body.appendChild(err);
+          document.getElementById("sec-fightclub").appendChild(err);
         });
       }
     </script>
