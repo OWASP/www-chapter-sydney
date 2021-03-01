@@ -16,7 +16,7 @@ See our running leaderboard below!
     <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.5/build/pure-min.css" integrity="sha384-LTIDeidl25h2dPxrB2Ekgc9c7sEC3CWGM6HeFmuDNUjX76Ert4Z4IY714dhZHPLd" crossorigin="anonymous">
 
     <script type="text/javascript">
-      var API_KEY = 'AIzaSyDb7ok3LcF6KueDIZD-dYrNxNOJ42ZAaME';
+      var API_KEY = 'AIzaSyDPHLDnDcummdSUYtKWIch5GYGYG3DAyx0';
       var DISCOVERY_DOCS = ["https://sheets.googleapis.com/$discovery/rest?version=v4"];
       var SCOPES = "https://www.googleapis.com/auth/spreadsheets.readonly";
       var SHEETID = '1OdNhicU2fIi8jyRek5Ny0rhGhMaqXSTj2H3fTENO-yg';
