@@ -41,7 +41,7 @@ No cybersecurity summit would be complete without CTF events! We aim to hold an 
 <section style='background-color:#f3f4f6;'>
     <strong>Event:</strong> Bridging The Cybersecurity Skill Gap<br/>
     <strong>Date:</strong> 25th March 2021<br/>
-    <strong>Link:</strong> TBA><br/>
+    <strong>Link:</strong> TBA <br/>
 </section><br/>
 
 <section style='background-color:#f3f4f6;'>

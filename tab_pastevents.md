@@ -27,7 +27,7 @@ Past event recordings will be uploaded to our YouTube channel: <a href="https://
 
 <br/>
 
-###Fight Club Feb
+### Fight Club Feb
 **Date:** 17th February 2021
 <blockquote>
   Our every second-month CTF where we let you unleash your most brutal attacks! Check out the Fight Club Leaderboard for the running scoreboard!
