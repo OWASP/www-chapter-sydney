@@ -27,6 +27,20 @@ Past event recordings will be uploaded to our YouTube channel: <a href="https://
 
 <br/>
 
+### Bridging The Cybersecurity Skill Gap
+**Date:** 25th March 2021
+<blockquote>
+Researcher and educator Yenni Tim addresses the need for stronger collaboration between higher education and the industry, and how collaboration leads to a successful outcome in both students beginning their career and organisations hunting for talent.
+</blockquote>
+
+**Speakers:**
+<blockquote>
+Yenni Tim <br/>
+Yenni Tim is an educator and researcher at UNSW’s School of Information Systems and Technology Management. She believes in career-focused education and is committed to working with students to develop the skills sets they need to enter a rapidly changing digital environment. Yenni’s research focuses on digital resilience, with her work including the design and use of technology for pandemics and disaster response, and the building of cyber resilience amidst persistent security threats.
+</blockquote>
+
+-------------
+
 ### Fight Club Feb
 **Date:** 17th February 2021
 <blockquote>
