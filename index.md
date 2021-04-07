@@ -39,14 +39,9 @@ No cybersecurity summit would be complete without CTF events! We aim to hold an 
 ## Upcoming Events
 
 <section style='background-color:#f3f4f6;'>
-    <strong>Event:</strong> Bridging The Cybersecurity Skill Gap<br/>
-    <strong>Date:</strong> 25th March 2021<br/>
-    <strong>Link:</strong> <a href="https://www.meetup.com/OWASP-Sydney-Chapter/events/276706828/">https://www.meetup.com/OWASP-Sydney-Chapter/events/276706828/</a> <br/>
-</section><br/>
-
-<section style='background-color:#f3f4f6;'>
-    <strong>Event:</strong> Informal Get Together - Fight Club <br/>
-    <strong>Proposed Date:</strong> 21st April 2021<br/>
+    <strong>Event:</strong>Fight Club <br/>
+    <strong>Date:</strong> 21st April 2021 6PM<br/>
+    <strong>Link:</strong> <a href="https://www.meetup.com/OWASP-Sydney-Chapter/events/277127563/">https://www.meetup.com/OWASP-Sydney-Chapter/events/277127563/</a> <br/>
 </section><br/>
 
 <section style='background-color:#f3f4f6;'>
