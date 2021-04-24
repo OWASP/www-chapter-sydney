@@ -38,15 +38,11 @@ No cybersecurity summit would be complete without CTF events! We aim to hold an 
 
 ## Upcoming Events
 
-<section style='background-color:#f3f4f6;'>
-    <strong>Event:</strong>Fight Club <br/>
-    <strong>Date:</strong> 21st April 2021 6PM<br/>
-    <strong>Link:</strong> <a href="https://www.meetup.com/OWASP-Sydney-Chapter/events/277127563/">https://www.meetup.com/OWASP-Sydney-Chapter/events/277127563/</a> <br/>
-</section><br/>
 
 <section style='background-color:#f3f4f6;'>
-    <strong>Event:</strong> Threat Assessment - Online Presentation <br/>
-    <strong>Proposed Date:</strong> 19th May 2021<br/>
+    <strong>Event:</strong> Threat Modelling 101 + 1 <br/>
+    <strong>Date:</strong> 19th May 2021<br/>
+    <strong>Meetup Link:</strong> TBA <br/>
 </section><br/>
 
 <section style='background-color:#f3f4f6;'>

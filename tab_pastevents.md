@@ -27,6 +27,16 @@ Past event recordings will be uploaded to our YouTube channel: <a href="https://
 
 <br/>
 
+-------------
+
+### Fight Club Feb
+**Date:** 21st April 2021
+<blockquote>
+  Our every second-month CTF where we let you unleash your most brutal attacks! Check out the Fight Club Leaderboard for the running scoreboard!
+</blockquote>
+
+-------------
+
 ### Bridging The Cybersecurity Skill Gap
 **Date:** 25th March 2021
 <blockquote>
