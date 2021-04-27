@@ -41,7 +41,7 @@ No cybersecurity summit would be complete without CTF events! We aim to hold an 
 
 <section style='background-color:#f3f4f6;'>
     <strong>Event:</strong> Threat Modelling 101 + 1 <br/>
-    <strong>Date:</strong> 19th May 2021<br/>
+    <strong>Date:</strong> 18th May 2021<br/>
     <strong>Meetup Link:</strong> TBA <br/>
 </section><br/>
 
