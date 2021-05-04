@@ -14,3 +14,9 @@ tags: sydney
 <!--<a href="files/docker-containers.pdf" download="docker-containers.pdf">Hacking And Securing Docker Containers</a>-->
 
 [OWASP Vulnerability Management Guide](https://owasp.org/www-project-vulnerability-management-guide/)
+
+[PyGoat - Vulnerable Web Application](https://github.com/adeyosemanputra/pygoat)
+
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+
