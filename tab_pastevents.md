@@ -29,6 +29,10 @@ Past event recordings will be uploaded to our YouTube channel: <a href="https://
 
 ### Threat Modelling 101 + 1
 **Date:** 18th May 2021
+<blockquote>
+Special guest Abhijeth Dugginapeddi demonstrates technical and non-technical approaches to understanding threat modelling so that everyone, even with varying levels of skill will be able to participate and deepen their knowledge.
+</blockquote>
+
 **Speakers:**
 <blockquote>
 Abhijeth Dugginapeddi <br/>
