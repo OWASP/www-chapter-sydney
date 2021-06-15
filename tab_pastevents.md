@@ -27,6 +27,15 @@ Past event recordings will be uploaded to our YouTube channel: <a href="https://
 
 <br/>
 
+### Threat Modelling 101 + 1
+**Date:** 18th May 2021
+**Speakers:**
+<blockquote>
+Abhijeth Dugginapeddi <br/>
+Abhi currently Heads a security team at BigCommerce, Lectures at UNSW and Mentors Strobes a Security orchestration startup. He also spoke at several international conferences like Defcon, Blackhat, OWASP AppSec USA and B-sides. Abhijeth is also an active researcher and has found vulns in major tech companies like Google, Facebook, Yahoo and eBay. He is also interested in Digital Marketing, Product Design and Growth Hacking.
+</blockquote>
+
+
 -------------
 
 ### Fight Club Feb
