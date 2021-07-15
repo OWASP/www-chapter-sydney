@@ -39,19 +39,20 @@ No cybersecurity summit would be complete without CTF events! We aim to hold an 
 ## Upcoming Events
 
 <section style='background-color:#f3f4f6;'>
-    <strong>Event:</strong> Informal Get Together - Fight Club <br/>
-    <strong>Proposed Date:</strong> 16th July 2021<br/>
+    <strong>Event:</strong> Fun with Hack The Box <br/>
+    <strong>Proposed Date:</strong> 12th August 2021<br/>
 </section><br/>
 
 <section style='background-color:#f3f4f6;'>
-    <strong>Event:</strong> Pentesting Using The Browser Developer Tool - Online Presentation <br/>
-    <strong>Proposed Date:</strong> 21st August 2021<br/>
+    <strong>Event:</strong> Continuous Security - Building Security Into Your Pipelines <br/>
+    <strong>Proposed Date:</strong> 17th August 2021<br/>
 </section><br/>
 
 <section style='background-color:#f3f4f6;'>
-    <strong>Event:</strong> Informal Get Together - Fight Club <br/>
-    <strong>Proposed Date:</strong> 18th September 2021<br/>
+    <strong>Event:</strong> Fun with Hack The Box <br/>
+    <strong>Proposed Date:</strong> 14th October 2021<br/>
 </section><br/>
+
 
 
 Follow us on our socials to stay updated, we are on MeetUp, LinkedIn, Facebook, and Discord.
