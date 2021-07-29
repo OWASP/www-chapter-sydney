@@ -42,13 +42,13 @@ No cybersecurity summit would be complete without CTF events! We aim to hold an 
 <section style='background-color:#f3f4f6;'>
     <strong>Event:</strong> Fun with Hack The Box <br/>
     <strong>Date:</strong> 12th August 2021<br/>
-    <strong>Link:</strong> https://www.meetup.com/OWASP-Sydney-Chapter/events/279765763/<br/>
+    <strong>Link:</strong> <a href="https://www.meetup.com/OWASP-Sydney-Chapter/events/279765763/">https://www.meetup.com/OWASP-Sydney-Chapter/events/279765763/</a> <br/>
 </section><br/>
 
 <section style='background-color:#f3f4f6;'>
     <strong>Event:</strong> Continuous Security - Building Security Into Your Pipelines <br/>
     <strong>Date:</strong> 17th August 2021<br/>
-    <strong>Link:</strong> https://www.meetup.com/OWASP-Sydney-Chapter/events/279554653/<br/>
+    <strong>Link:</strong> <a href="https://www.meetup.com/OWASP-Sydney-Chapter/events/279554653/">https://www.meetup.com/OWASP-Sydney-Chapter/events/279554653/</a><br/>
 
 </section><br/>
 
