@@ -13,7 +13,7 @@ postal-code:
 ---
 
 <img src="assets/images/logo-syd.png" style="width:45%" class="center">
-<img src="assets/images/OWASP20thAnniversary.jpeg" style="width:40%" class="right">
+<img src="assets/images/OWASP20thAnniversary.jpeg" style="width:35%" class="right">
 
 ## Welcome
 Welcome to the OWASP Sydney Chapter home page!
@@ -41,17 +41,20 @@ No cybersecurity summit would be complete without CTF events! We aim to hold an 
 
 <section style='background-color:#f3f4f6;'>
     <strong>Event:</strong> Fun with Hack The Box <br/>
-    <strong>Proposed Date:</strong> 12th August 2021<br/>
+    <strong>Date:</strong> 12th August 2021<br/>
+    <strong>Link:</strong> https://www.meetup.com/OWASP-Sydney-Chapter/events/279765763/<br/>
 </section><br/>
 
 <section style='background-color:#f3f4f6;'>
     <strong>Event:</strong> Continuous Security - Building Security Into Your Pipelines <br/>
-    <strong>Proposed Date:</strong> 17th August 2021<br/>
+    <strong>Date:</strong> 17th August 2021<br/>
+    <strong>Link:</strong> https://www.meetup.com/OWASP-Sydney-Chapter/events/279554653/<br/>
+
 </section><br/>
 
 <section style='background-color:#f3f4f6;'>
     <strong>Event:</strong> Fun with Hack The Box <br/>
-    <strong>Proposed Date:</strong> 14th October 2021<br/>
+    <strong>Date:</strong> 14th October 2021<br/>
 </section><br/>
 
 
