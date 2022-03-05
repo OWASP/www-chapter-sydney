@@ -31,12 +31,12 @@ Past event recordings will be uploaded to our YouTube channel: <a href="https://
 **Date:** 15th February 2022
 <blockquote>
 Dr Baljeet Malhotra provides an overview of an API Governance framework for effective API Risk Management. This framework is inspired by the Zero Trust model that enterprises can use as a “Swiss Knife” for reducing their API related risks. He also highlights best practices and hands-on examples for API Risk Management.
-  
+</blockquote>
+ 
 **Speakers:**
 <blockquote>
 Dr Baljeet Malhotra <br/>
 Dr Baljeet Malhotra is an award-winning researcher known for his work in Open Source and API Data Management. He conceptualized the world's first "API Composition Analysis" based on source code static analysis. He currently holds Adjunct Professor positions at the University of British Columbia, University of Victoria and University of Northern BC.
-
 </blockquote>
   
 
@@ -47,12 +47,12 @@ Dr Baljeet Malhotra is an award-winning researcher known for his work in Open So
 **Date:** 14th December 2021
 <blockquote>
 Special guest Abhijeth Dugginapeddi shares his experiences in running the Security Champion program in two large companies and the lessons he has learnt from them.
-
+</blockquote>
+  
 **Speakers:**
 <blockquote>
 Abhijeth Dugginapeddi <br/>
 Abhijeth Dugginapeddi is the Head of AppSec, Adjunct Professor, and Mentor. He is a security enthusiast in the fields of Penetration Testing and Application/Mobile/Infrastructure Security. He believes in the need for more security awareness and free responsible disclosures. He has found a few vulnerabilities with Google, Yahoo, Facebook, Microsoft, eBay, Dropbox, etc. He has previously presented at Defcon, Blackhat, OWASP AppSec USA, c0c0n, Secure-2018 Poland, CISO Summit, and several other events. 
-
 </blockquote>
   
 
@@ -62,12 +62,12 @@ Abhijeth Dugginapeddi is the Head of AppSec, Adjunct Professor, and Mentor. He i
 **Date:** 19th October 2021
 <blockquote>
 Mon Siv wants to help you become more confident in yourself when you next interview for a job, whether it’s in cybersecurity or in any other industry. His tips and tricks will ensure you establish the right skills to understand the interview process, what’s expected of yourself, and how to be ready to smash your goals.
-
+</blockquote>
+  
 **Speakers:**
 <blockquote>
 Mon Siv <br/>
 Mon Siv has spent 15 years working in the recruitment industry, recently moving to a new role with Fortian to help build and mature their internal recruitment function on their growth journey. He has also worked in the agency world, specialising in the cybersecurity domain, helping candidates at various levels navigate through the recruitment process to secure their next role on their career path.
-
 </blockquote>
   
 
@@ -77,12 +77,12 @@ Mon Siv has spent 15 years working in the recruitment industry, recently moving 
 **Date:** 17th August 2021
 <blockquote>
 The lines between what constitutes infrastructure and what constitutes our application are becoming increasingly blurred in the era of continuous delivery and cloud-native. Vandana Verma goes through the problem space, the types of security challenges we need to think about, and where the integration points are for incorporating security into our CI/CD process.
-
+</blockquote>
+  
 **Speakers:**
 <blockquote>
 Vandana Verma <br/>
 Vandana is a Security Relations leader at Snyk with a current focus on DevSecOps. In her previous experience, she has dealt with Application Security, Vulnerability Management, SOC, Infrastructure Security and Cloud Security.
-
 </blockquote>
 
 
