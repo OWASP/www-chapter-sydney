@@ -42,7 +42,7 @@ No cybersecurity summit would be complete without CTF events! We aim to hold an 
 <section style='background-color:#f3f4f6;'>
     <strong>Event:</strong> Unprotect Project: The Malware Evasion Technique Database<br/>
     <strong>Date:</strong> 4th May 2022 <br/>
-    <strong>Link:</strong> TBA </a><br/>
+    <strong>Link:</strong> TBA <br/>
 
 </section><br/>
 
