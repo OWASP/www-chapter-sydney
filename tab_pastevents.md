@@ -27,6 +27,29 @@ Past event recordings will be uploaded to our YouTube channel: <a href="https://
 
 <br/>
 
+-------------
+
+
+### OWASP Sydney AGM 
+**Date:** 30th March 2022
+<blockquote>
+Our Annual General Meeting where we share with you all our plans for the upcoming year, as well as recapping our activities from 2021.
+</blockquote>
+  
+**Agenda:**
+<blockquote>
+- Chair Welcome & Introduction <br/>
+- 2021 Summary Presentation & Financial Statement <br/>
+- 2022 Schedule <br/>
+- Member Feedback <br/>
+- Action Items <br/>
+- Open Floor <br/>
+</blockquote>
+
+
+-------------
+
+
 ### Zero Trust Model - A Swiss Knife for API Risk Management
 **Date:** 15th February 2022
 <blockquote>
