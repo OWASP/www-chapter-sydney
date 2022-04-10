@@ -40,9 +40,9 @@ No cybersecurity summit would be complete without CTF events! We aim to hold an 
 ## Upcoming Events
 
 <section style='background-color:#f3f4f6;'>
-    <strong>Event:</strong> OWASP Sydney AGM <br/>
-    <strong>Date:</strong> 30th March 2022 <br/>
-    <strong>Link:</strong> <a href="https://www.meetup.com/OWASP-Sydney-Chapter/events/284374799/">https://www.meetup.com/OWASP-Sydney-Chapter/events/284374799/</a><br/>
+    <strong>Event:</strong> Unprotect Project: The Malware Evasion Technique Database<br/>
+    <strong>Date:</strong> 4th May 2022 <br/>
+    <strong>Link:</strong> TBA </a><br/>
 
 </section><br/>
 
