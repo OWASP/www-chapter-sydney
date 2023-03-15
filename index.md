@@ -12,7 +12,7 @@ postal-code:
 
 ---
 
-<img src="assets/images/logo-syd.png" style="width:45%" class="center">
+
 <img src="assets/images/OWASP20thAnniversary.jpeg" style="width:35%" class="right">
 
 ## Welcome
